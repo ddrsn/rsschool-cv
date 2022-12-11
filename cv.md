@@ -1,4 +1,4 @@
-**Nationality:**    Russian
+**Nationality:**    russian
 
 ## EDUCATION AND TRAINING
 ___
@@ -25,7 +25,7 @@ ___
 ___
 * English-B1
 * Norwegian-A1
-* Russian-Native
+* russian-Native
 
 ## SKILLS
 ___
